@@ -1,3 +1,5 @@
+# Boilerplate and for Next JS, Tailwind CSS 3, Jest, and TypeScript
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
